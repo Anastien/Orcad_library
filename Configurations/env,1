@@ -1,0 +1,63 @@
+source $TELENV
+funckey w add connect
+funckey d slide
+funckey Esc done
+funckey p place manual
+funckey Backspace oops
+funckey SEsc cancel 
+funckey Del delete
+funckey ~3 3d
+funckey ~F flipdesign
+funckey m show measure
+funckey s shadow toggle
+funckey f create fanout
+funckey m move
+funckey r spin iangle 90
+### User Preferences section
+### This section is computer generated.
+### Please do not modify to the end of the file.
+### Place your hand edits above this section.
+###
+set display_raster_ops = on
+set display_refdes_subclass = silkscreen
+unset enable_3d_symbol_place_on_pastemask
+unset 3d_canvas_skinning
+set plot_shape_bw_outline
+set autosave
+unset highlight_shape_net
+unset display_nohilitefont
+unset no_etch_shape_display
+unset no_shape_fill_dyn_ood
+unset old_shape_fill_style
+unset no_shape_fill
+set allegro_new_units = millimeters
+set allegro_new_accuracy = 4
+set apd_new_accuracy = 4
+set fillet_pad_inside_shape
+set enable_fixed_fillets
+set icp_fillet_corners_beta
+set layout2allegro_unsupported
+unset align_guides_place_bound
+set align_guides_component_origin
+set align_guides
+set allegro_no_startpage
+unset idx_enhanced_features
+set padpath = E:/R2200101-020101/OrCAD_Library/Padstacks
+set psmpath = E:/R2200101-020101/OrCAD_Library/Lands_Compiled
+set steppath = E:/R2200101-020101/OrCAD_Library/Step
+set padentry_factor = 1
+set allegro_etch_length_on
+set acon_diffpair_pad_connect = cursor
+set acon_route_on_active_subclass
+unset allegro_dynam_timing_fixedpos
+set acon_diag
+set shape_add_filltype = dynamic
+unset static_shapes_fill_solid
+unset draw_etch_outline
+unset disable_opengl
+set display_pinpair_connection
+set display_drcfill
+unset display_etch_over_pad
+unset display_nolinewidth
+unset display_nocolor_dynamics
+set pcb_cursor = cross

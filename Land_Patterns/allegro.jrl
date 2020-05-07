@@ -1,0 +1,38 @@
+\t (00:00:01) allegro 17.4 S001 Windows SPB 64-bit Edition
+\t (00:00:01)     Journal start - Sun May  3 21:28:39 2020
+\t (00:00:01)         Host=ANAS-AHMED User=Anas Pid=14700 CPUs=12
+\t (00:00:01) CmdLine= c:\cadence\spb_17.4\tools\bin\allegro.exe D:\HARDWARE\Designs\Biobusiness\OrCAD_Library\R2200101-020101\OrCAD_Library\Land_Patterns\SOT23-3M.dra
+\t (00:00:01) 
+   (00:00:01) Loading axlcore.cxt 
+\t (00:00:01) Opening existing design...
+\i (00:00:02) fillin yes 
+\d (00:00:02) Design opened: D:/HARDWARE/Designs/Biobusiness/OrCAD_Library/R2200101-020101/OrCAD_Library/Land_Patterns/SOT23-3M.dra
+\i (00:00:03) trapsize 300
+\i (00:00:03) trapsize 309
+\i (00:00:03) trapsize 300
+\i (00:00:03) trapsize 244
+\i (00:00:03) trapsize 294
+\i (00:00:04) generaledit 
+\i (00:00:19) show element 
+\i (00:00:21) pick grid -0.9417 0.8662
+\t (00:00:21) last pick:  0.0000 0.0000
+\i (00:00:22) pick grid -1.2826 -0.9032
+\t (00:00:22) last pick:  -2.5400 0.0000
+\i (00:00:27) setwindow text
+\i (00:00:27) close
+\i (00:00:28) show measure 
+\i (00:00:28) pick grid -1.2944 0.8897
+\t (00:00:28) last pick:  -1.3000 0.9000
+\i (00:00:29) pick grid -1.1533 -1.0148
+\t (00:00:29) last pick:  -1.2000 -1.0000
+\i (00:00:32) pick grid 0.9922 0.0315
+\t (00:00:32) last pick:  1.0000 0.0000
+\i (00:01:00) setwindow text
+\i (00:01:00) close
+\i (00:01:03) prepopup 3.2141 1.3247
+\i (00:01:04) done 
+\i (00:01:04) generaledit 
+\i (00:02:49) exit 
+\e (00:02:49) Do you want to save the changes you made to SOT23-3M.dra?
+\i (00:02:53) fillin no 
+\t (00:02:53)     Journal end - Sun May  3 21:31:31 2020
