@@ -1,0 +1,30 @@
+\t (00:00:01) allegro 17.4 S002 Windows SPB 64-bit Edition
+\t (00:00:01)     Journal start - Wed Aug 12 12:07:32 2020
+\t (00:00:01)         Host=BB-DT-0116 User=anas.ahmed Pid=4376 CPUs=8
+\t (00:00:01) CmdLine= c:\cadence\spb_17.4\tools\bin\allegro.exe E:\R2200101-020101\OrCAD_Library\Land_Patterns\B3B-XH-A-LF-SN.dra
+\t (00:00:01) 
+   (00:00:01) Loading axlcore.cxt 
+\t (00:00:01) Opening existing design...
+\d (00:00:01) Design opened: E:/R2200101-020101/OrCAD_Library/Land_Patterns/B3B-XH-A-LF-SN.dra
+\t (00:00:02) Grids are drawn 16.0000, 16.0000 apart for enhanced viewing.
+\i (00:00:02) trapsize 3359
+\i (00:00:02) trapsize 3742
+\i (00:00:02) trapsize 3359
+\i (00:00:02) trapsize 2124
+\i (00:00:02) trapsize 2124
+\i (00:00:02) trapsize 764
+\i (00:00:03) generaledit 
+\i (00:16:55) zoom out 1 
+\i (00:16:55) setwindow pcb
+\i (00:16:55) zoom out -1.7771 -14.8564
+\i (00:16:55) trapsize 1529
+\i (00:16:56) zoom in 1 
+\i (00:16:56) setwindow pcb
+\i (00:16:56) zoom in 2.3815 2.6336
+\i (00:16:56) trapsize 764
+\i (00:16:56) zoom in 1 
+\i (00:16:56) setwindow pcb
+\i (00:16:56) zoom in 0.4704 0.5390
+\i (00:16:56) trapsize 382
+\i (00:16:57) exit 
+\t (00:16:57)     Journal end - Wed Aug 12 12:24:29 2020

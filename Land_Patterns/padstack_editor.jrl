@@ -1,0 +1,9 @@
+\t (00:00:02) padstack_editor 17.4 S002 Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Mon Aug 10 13:08:47 2020
+\t (00:00:02)         Host=BB-DT-0116 User=anas.ahmed Pid=3256 CPUs=8
+\t (00:00:02) CmdLine= padstack_editor -mpssession anas.ahmed -file E:/R2200101-020101/OrCAD_Library/Padstacks/csd87330q3d_th.pad -tempout C:/Users/ANAS~1.AHM/AppData/Local/Temp/#Taaaaaj00868.tmp -p E:/R2200101-020101/OrCAD_Library/Land_Patterns
+\t (00:00:02) 
+\d (00:00:04) QtSignal GuidedTabsParent GuidedTabs currentChanged Start
+\d (00:00:06) QtSignal GuidedTabsParent GuidedTabs currentChanged Drill
+\d (00:00:14) QtSignal MainWindow Save triggered
+\t (00:00:16)     Journal end - Mon Aug 10 13:09:01 2020

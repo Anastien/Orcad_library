@@ -1,0 +1,42 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Padstack                                                 )
+(                                                                     )
+(    Drawing          : csd87330q3d.dra                               )
+(    Software Version : unreleased                                    )
+(    Date/Time        : Mon Aug 10 13:09:09 2020                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Mon Aug 10 13:09:09 2020				Page     1
+
+
+------ Pad Stack Refresh Options ------
+
+Input design  = 'E:/R2200101-020101/OrCAD_Library/Land_Patterns/csd87330q3d.dra'
+Output design = ''
+Reset symbol text and size locations   = 'NO'
+
+
+------ Library Paths ------
+PSMPATH =  E:/R2200101-020101/OrCAD_Library/Lands_Compiled 
+
+PADPATH =  E:/R2200101-020101/OrCAD_Library/Padstacks 
+
+
+------ Pad Stack Refresh Messages ------
+
+'CSD87330Q3D_TH'  pad stack refresh starting.
+
+     'CSD87330Q3D_TH'  pad stack refreshed successfully.
+     
+'CSD87330Q3D_2'  pad stack refresh starting.
+
+     'CSD87330Q3D_2'  pad stack refreshed successfully.
+     
+'CSD87330Q3D_1'  pad stack refresh starting.
+
+     'CSD87330Q3D_1'  pad stack refreshed successfully.
+     
+Completed refreshing all pad stacks successfully.

@@ -1,0 +1,13 @@
+\t (00:00:02) padstack_editor 17.4 S002 Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Mon Aug 10 13:08:06 2020
+\t (00:00:02)         Host=BB-DT-0116 User=anas.ahmed Pid=7292 CPUs=8
+\t (00:00:02) CmdLine= padstack_editor -mpssession anas.ahmed -file 87330q3d_th.pad -tempout C:/Users/ANAS~1.AHM/AppData/Local/Temp/#Taaaaaf00868.tmp -p E:/R2200101-020101/OrCAD_Library/Land_Patterns
+\t (00:00:02) 
+\d (00:00:07) QtSignal GuidedTabsParent GuidedTabs currentChanged Start
+\d (00:00:08) QtSignal GuidedTabsParent GuidedTabs currentChanged Drill
+\d (00:00:08) QtSignal GuidedTabsParent GuidedTabs currentChanged "Secondary Drill"
+\d (00:00:08) QtSignal GuidedTabsParent GuidedTabs currentChanged "Drill Symbol"
+\d (00:00:09) QtSignal GuidedTabsParent GuidedTabs currentChanged "Drill Offset"
+\d (00:00:09) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
+\d (00:00:10) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\t (00:00:11)     Journal end - Mon Aug 10 13:08:15 2020
