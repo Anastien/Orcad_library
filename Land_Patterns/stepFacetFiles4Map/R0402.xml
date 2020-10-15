@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<step-assembly root="id23">
-<product id="id23" name="68546" shape="id13"/>
-<shape id="id13" unit="mm 0.001000" shell="id24"/>
-<shell id="id24">
+<step-assembly root="id474">
+<product id="id474" name="(Unsaved)" shape="id471" children="id475"/>
+<product id="id475" name="Component1" shape="id472"/>
+<shape id="id471" unit="mm 0.001000">
+    <child ref="id472" xform="-2.22045e-16 1 2.22045e-16 0 -9.3055e-47 -2.22045e-16 1 0 1 2.22045e-16 4.93038e-32 0 0 0 0 1"/>
+</shape>
+<shape id="id472" unit="mm 0.001000">
+    <child ref="id16" xform="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1"/>
+</shape>
+<shape id="id16" unit="mm 0.001000" shell="id18"/>
+<shell id="id18" color="a0a0a0">
     <verts>
         <v p="0.5 0 -0.25"/>
         <v p="0.5 0 0.25"/>
@@ -137,7 +144,7 @@
         <v p="0.28039702000549999 0.34999999999999998 0"/>
         <v p="0.28039702000549999 0.34999999999999998 -0.125"/>
     </verts>
-    <facets>
+    <facets color="a0a0a0">
         <f v="28 34 25" fn="-0 -1 0">
             <n d="-0 -1 -0"/>
             <n d="-0 -1 -0"/>
@@ -209,7 +216,7 @@
             <n d="-0 -1 -0"/>
         </f>
     </facets>
-    <facets>
+    <facets color="a0a0a0">
         <f v="45 7 38" fn="0 -1 0">
             <n d="-0 -1 -0"/>
             <n d="-0 -1 -0"/>
@@ -281,7 +288,7 @@
             <n d="-0 -1 -0"/>
         </f>
     </facets>
-    <facets>
+    <facets color="a0a0a0">
         <f v="52 34 49" fn="-1 0 0">
             <n d="-1 -0 -0"/>
             <n d="-1 -0 -0"/>
@@ -353,7 +360,7 @@
             <n d="-1 -0 -0"/>
         </f>
     </facets>
-    <facets>
+    <facets color="a0a0a0">
         <f v="74 70 71" fn="0 0 -1">
             <n d="0 0 -1"/>
             <n d="0 0 -1"/>
@@ -585,7 +592,7 @@
             <n d="0 0 -1"/>
         </f>
     </facets>
-    <facets>
+    <facets color="a0a0a0">
         <f v="81 28 29" fn="1 0 0">
             <n d="1 0 0"/>
             <n d="1 0 0"/>
@@ -657,7 +664,7 @@
             <n d="1 0 0"/>
         </f>
     </facets>
-    <facets>
+    <facets color="a0a0a0">
         <f v="79 94 88" fn="0 1 0">
             <n d="-0 1 -0"/>
             <n d="-0 1 -0"/>
@@ -729,7 +736,7 @@
             <n d="-0 1 -0"/>
         </f>
     </facets>
-    <facets>
+    <facets color="a0a0a0">
         <f v="21 109 99" fn="-0 0 1">
             <n d="0 0 1"/>
             <n d="0 0 1"/>
@@ -961,7 +968,7 @@
             <n d="0 0 1"/>
         </f>
     </facets>
-    <facets>
+    <facets color="a0a0a0">
         <f v="116 23 117" fn="-0 -1 0">
             <n d="-0 -1 -0"/>
             <n d="-0 -1 -0"/>
@@ -1033,7 +1040,7 @@
             <n d="-0 -1 -0"/>
         </f>
     </facets>
-    <facets>
+    <facets color="a0a0a0">
         <f v="47 6 60" fn="1 0 0">
             <n d="1 -0 -0"/>
             <n d="1 -0 -0"/>
@@ -1105,7 +1112,7 @@
             <n d="1 -0 -0"/>
         </f>
     </facets>
-    <facets>
+    <facets color="a0a0a0">
         <f v="109 41 108" fn="-1 -0 0">
             <n d="-1 0 0"/>
             <n d="-1 0 0"/>
@@ -1177,7 +1184,7 @@
             <n d="-1 0 0"/>
         </f>
     </facets>
-    <facets>
+    <facets color="a0a0a0">
         <f v="122 22 105" fn="0 1 0">
             <n d="-0 1 -0"/>
             <n d="-0 1 -0"/>
@@ -1249,7 +1256,7 @@
             <n d="-0 1 -0"/>
         </f>
     </facets>
-    <facets>
+    <facets color="a0a0a0">
         <f v="102 103 124" fn="-0.707106781184745 0.70710678118835 0">
             <n d="-0.707106781186548 0.707106781186548 -0"/>
             <n d="-0.707106781186548 0.707106781186548 -0"/>
@@ -1321,7 +1328,7 @@
             <n d="-0.707106781186548 0.707106781186548 -0"/>
         </f>
     </facets>
-    <facets>
+    <facets color="a0a0a0">
         <f v="99 127 126" fn="0 1 0">
             <n d="0 1 0"/>
             <n d="0 1 0"/>
@@ -1393,7 +1400,7 @@
             <n d="0 1 0"/>
         </f>
     </facets>
-    <facets>
+    <facets color="a0a0a0">
         <f v="129 19 96" fn="0.707106781186547 0.707106781186547 -0">
             <n d="0.707106781186548 0.707106781186548 -0"/>
             <n d="0.707106781186548 0.707106781186548 -0"/>
